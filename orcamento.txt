@@ -1,0 +1,6 @@
+-------ORÇAMENTO FREELANCE-------
+Projeto:test
+Valor da hora: R$ 20.0
+Horas estimadas:24
+Urgente: sim
+-----------------------------------VALOR TOTAL ESTIMADO: R$ 576.0

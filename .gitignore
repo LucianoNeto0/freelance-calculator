@@ -1,0 +1,17 @@
+# Ambiente Virtual
+venv/
+.venv/
+env/
+
+# Arquivos que o Python gera sozinho ao rodar o código
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Configurações pessoais do editor
+.vscode/
+.idea/
+
+# Arquivos de log e temporários do sistema
+*.log
+.DS_Store
