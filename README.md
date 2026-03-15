@@ -1,6 +1,6 @@
 # 🧮 Freelance Budget Calculator
 
-A simple and efficient tool developed in Python to help freelancers quickly calculate project budgets, generating a detailed summary in a text file.
+A simple and efficient Python-based system designed to help freelancers quickly calculate project quotes, featuring urgency fees and data persistence.
 
 ## 🚀 Features
 
@@ -8,12 +8,15 @@ A simple and efficient tool developed in Python to help freelancers quickly calc
 * **Urgency Fee:** Automatic application of a 20% surcharge if the project is urgent.
 * **File Generation:** Automatically exports the formatted budget to a .txt file.
 * **Terminal Interface:** Direct and fast user interaction.
+* **Data Persistence**: Saves all quotes into a `.txt` file for future reference.
+* **Menu System**: Interactive terminal-based interface.
+* **History Management**: Secure option to clear the log file.
 
 ## 🛠️ echnologies Used
 
-* **Python 3**: Linguagem principal.
-* **Git/GitHub**: Para versionamento e hospedagem do código.
-* **File Handling**: Use of the open() function for data persistence.
+* **Python 3.12**
+* **OS Module**: For system file manipulation.
+* **Git/GitHub**: For version control
 
 ## 📂 How to run the project
 
